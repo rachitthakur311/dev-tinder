@@ -5,7 +5,6 @@ const connectDB = async () => {
         'mongodb+srv://Pandit_ji:tinder8888@panditji.mjqqnvo.mongodb.net/'
     );
 };
-// mongoose.connect('mongodb+srv://Pandit_ji:tinder8888@panditji.mjqqnvo.mongodb.net/');
 
 
 
